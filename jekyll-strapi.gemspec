@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.files = %W(README.md LICENSE) + Dir["lib/**/*"]
   spec.summary = "Strapi.io integration for Jekyll"
   spec.required_ruby_version = '>= 3.0.0'
-  spec.name = "jekyll-strapi-4"
+  spec.name = "jekyll-strapi"
   spec.license = "MIT"
   spec.require_paths = ["lib"]
   spec.description = spec.description = <<-DESC
